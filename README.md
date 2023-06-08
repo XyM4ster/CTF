@@ -3,9 +3,6 @@ Here are some summarized CTF ideas.
 
 ![](https://cdn.nlark.com/yuque/0/2023/jpeg/29405061/1684055051552-21b4d5bd-ce76-42c2-9d00-79758dc55ef8.jpeg)
 
-- From  BIT
-- Work hard to learn web security, reverse.
-- I Love CTF and 
 
 ## 有提示的地方
 
